@@ -27,7 +27,7 @@ Para rodar este projeto localmente, você vai precisar do **[Node.js](https://no
 
 1. Clone o repositório para a sua máquina:
    ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
+   git clone https://github.com/gabrielaanascimento/Api-Financas.git
    ````
 
 2. Acesse o diretório do projeto:
