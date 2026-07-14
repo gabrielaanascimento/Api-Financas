@@ -74,6 +74,3 @@ No diretório raiz, você pode executar os seguintes comandos:
 
 Projeto criado e desenvolvido por **Gabriel Nascimento**.
 
-```
-
-```
